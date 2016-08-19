@@ -1,2 +1,2 @@
 # RecyclerView
-RecyclerView瀑布流
+RecyclerView瀑布流。
